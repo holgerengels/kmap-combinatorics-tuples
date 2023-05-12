@@ -1,1 +1,1 @@
-export { KmapBinomialCoefficient } from './KmapBinomialCoefficient';
+export { KmapCombinatoricsTuples } from './KmapCombinatoricsTuples';

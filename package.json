@@ -1,7 +1,7 @@
 {
   "name": "kmap-combinatorics-tuples",
-  "version": "0.9.5",
-  "description": "Interactively demonstrate the binomial coefficient",
+  "version": "0.9.1",
+  "description": "Interactively demonstrate k-tuples",
   "license": "MIT",
   "author": "Holger Engels",
   "repository": {
@@ -14,9 +14,8 @@
     "knowlede card",
     "school",
     "math",
-    "term",
-    "strategy",
-    "decision tree"
+    "combinatorics",
+    "k-tuples"
   ],
   "type": "module",
   "main": "dist/src/index.js",
